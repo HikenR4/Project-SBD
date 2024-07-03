@@ -3,7 +3,7 @@
 
 # Orange Cafe
 
-Orange Cafe merupakan sebuah kafe yang dimana terdapat menu yang ramah untuk anak kos, jadi banyak anak kos sering nongkrong dikafe ini, dan juga
+Orange Cafe merupakan sebuah kafe yang dimana terdapat menu yang ramah untuk anak kos, jadi banyak anak kos sering nongkrong dikafe ini, dan juga disini juga ada Wi-fi yang membuat anak kos betah nongkrong di kafe ini.
 
 ## Daftar Isi
 
