@@ -1,9 +1,9 @@
 
 ---
 
-# Nama Proyek
+# Orange Cafe
 
-Deskripsi singkat tentang proyek ini.
+Orange Cafe merupakan sebuah kafe yang dimana terdapat menu yang ramah untuk anak kos, jadi banyak anak kos sering nongkrong dikafe ini, dan juga
 
 ## Daftar Isi
 
